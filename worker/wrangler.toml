@@ -1,0 +1,6 @@
+name = "dns-benchmark-pro-api"
+main = "src/index.js"
+compatibility_date = "2025-06-03"
+
+[vars]
+ALLOWED_ORIGIN = "*"
