@@ -65,3 +65,5 @@ vite_api_base=https://your-worker.your-subdomain.workers.dev
 - `frontend/` → ui
 - `worker/` → api
 
+## update
+- `Last updated/`: June 2026
